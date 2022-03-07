@@ -16,14 +16,14 @@ h1{text-align: center; font-weight: bolder;font-size: 3.5rem;}
 }
 .container{
     display: block;
-     height:25vh;
+     height:20vh;
      width: 50%;
      align-items: center;
      justify-content: center;
      margin: auto ;font-weight: bold;}
 #input{
     display: block;
-    height:25vh;
+    height:20vh;
     width: 50%;
     align-items: center;
     justify-content: center;
